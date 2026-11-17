@@ -1,0 +1,6 @@
+{
+  "name": "ASYV PassFlow - School Permission Management",
+  "description": "Agahozo-Shalom Youth Village official school permission request and approval management system with real-time status updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
